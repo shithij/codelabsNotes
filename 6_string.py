@@ -1,4 +1,4 @@
-#String operations
+#String
 
 a = "Hello"
 print(a)
