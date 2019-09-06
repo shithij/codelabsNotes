@@ -30,3 +30,4 @@ while i < 6:
   print(i)
   i += 1
 
+#break and continue in while too
