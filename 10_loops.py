@@ -6,6 +6,10 @@
 for x in range(2, 6):
   print(x)
 
+#Step value
+for x in range(2, 10, 2):
+  print(x)
+
 #Looping through each letter of a string
 for x in "banana":
   print(x)
